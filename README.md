@@ -1,9 +1,9 @@
 # project Data model
 
-##Title
+## Title
 Heart disease prediction
 
-##Dataset
+## Dataset
 - [Link](https://www.kaggle.com/johnsmith88/heart-disease-dataset)
 
 ## Program language
