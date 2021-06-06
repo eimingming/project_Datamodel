@@ -3,11 +3,11 @@
 ## Title
 Heart disease prediction
 
-## Dataset
-- [Link](https://www.kaggle.com/johnsmith88/heart-disease-dataset)
-
 ## Program language
 - R
+
+## Dataset
+- [Link](https://www.kaggle.com/johnsmith88/heart-disease-dataset)
 
 ## Video present
 - [Link](https://www.youtube.com/watch?v=OX8-VHmV638)
